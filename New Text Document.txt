@@ -1,0 +1,23 @@
+# Smart Home using ESP32 and AI
+
+This project demonstrates an AI-based smart home system using ESP32 and IoT concepts.
+
+## Features
+- Control lights and fan using WiFi
+- Smart door control using servo motor
+- AI integration via HTTP requests
+- ESP32 web server
+
+## Technologies
+- ESP32
+- Arduino IDE
+- IoT
+- AI Integration
+- WiFi
+
+## How it works
+AI or voice assistant sends commands to ESP32 over WiFi.
+ESP32 receives HTTP requests and controls home appliances.
+
+## Author
+Sondos El-Tahtawiس
